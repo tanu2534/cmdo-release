@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanu2534/cmdo-release/main/banner.png" width="600" alt="CMDO Banner"/>
-</p>
-
 <h1 align="center"> CMDO — Windows Command History Logger</h1>
 
 <p align="center">
@@ -9,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanu2534/cmdo-release/releases/latest">
+  <a href="https://github.com/tanu2534/cmdo-release/blob/main/cmdo.exe">
      <b>Download Latest Version</b>
   </a>
 </p>
@@ -41,4 +37,13 @@ It helps developers and analysts keep track of terminal usage patterns — local
 ##  Usage
 
 ```bash
-cmdo.exe
+
+# Setup command hooks (first-time setup)
+cmdo setup
+
+# Start the local web dashboard whenever you want to access the command logs 
+cmdo serve
+```
+
+
+Visit http://localhost:8089 to view your command history.
