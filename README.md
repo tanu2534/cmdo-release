@@ -17,11 +17,11 @@ CMDO (Command Memory & Data Observer) is a lightweight Windows executable design
 It helps developers and analysts keep track of terminal usage patterns — locally and securely.
 
 ###  Key Highlights
--  Tracks every executed Git Bash command  
--  Generates structured, time-stamped logs  
--  Minimal footprint — just one executable file (`cmdo.exe`)  
--  Works completely offline  
--  Designed for professionals who value simplicity and insight  
+-   Search and filter command history
+-   Commands grouped by directory
+-   Copy commands with one click
+-   Beautiful dark-themed interface
+-   Auto-cleanup of old commands
 
 ---
 
