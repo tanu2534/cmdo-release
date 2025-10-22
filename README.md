@@ -27,10 +27,11 @@ It helps developers and analysts keep track of terminal usage patterns — local
 
 ##  Installation
 
-1. **Download** the latest `.exe` from the [Releases Page](https://github.com/tanu2534/cmdo-release/).   
-2. **Install** to start tracking your command history automatically.  
-
-*(No installation wizard or zip extraction needed — just plug & run.)*
+1. Download all files (cmdo.exe, install.bat, cmdo.bat)
+2. Keep all files in the same folder
+3. Double-click `install.bat` (no need to run as admin)
+4. Close and reopen Command Prompt
+5. Type: `cmdo --help`
 
 ---
 
