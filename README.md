@@ -62,3 +62,9 @@ cmdo serve
 Visit http://localhost:8089 to view your command history.
 
 ---
+
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanu2534/cmdo-release/refs/heads/main/Screenshot.png" width="700"/>
+</p>
