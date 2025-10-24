@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 About
+##  About
 CMDO (Command Memory & Data Observer) is a lightweight Windows executable designed to record and manage your Git Bash command history with ease.  
 It helps developers and analysts keep track of terminal usage patterns — locally and securely.
 
@@ -27,7 +27,7 @@ It helps developers and analysts keep track of terminal usage patterns — local
 
 1. Download all files (cmdo.exe, install.bat, cmdo.bat)
 2. Keep all files in the same folder
-3. Double-click `install.bat` (no need to run as admin)
+3. Double-click `install.bat` 
 4. Close and reopen Command Prompt
 5. Type: `cmdo --help`
 
