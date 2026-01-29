@@ -2,7 +2,7 @@
 set -e
 
 INSTALL_NAME="cmdo"
-BASE_URL="https://fd265ec3490d.ngrok-free.app"
+BASE_URL="https://raw.githubusercontent.com/tanu2534/cmdo-release/main"
 
 echo ""
 echo "🚀 CMDO Installer for macOS"
